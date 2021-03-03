@@ -18,3 +18,6 @@ override.tf.json - игнорировать данный файл
 *_override.tf.json - игнорировать все файлы, где присутсвует часть данного наименования
 .terraformrc - игнорировать данный файл
 terraform.rc - игнорировать данный файл
+
+
+HomeWork 2 add new line
